@@ -21,9 +21,9 @@ logo: Logo.png
 
 title: EVA
 description: >- # this means to ignore newlines until "baseurl:"
-  EVA is a visual data management system (think MySQL for videos). 
-  It supports a declarative language similar to SQL and a wide range 
-  of commonly used computer vision models.
+  Visual data management system. Features include declarative query language, storage
+  management, deep learning, and hardware acceleration.
+  Developed at Georgia Institute of Technology.
 baseurl: "/Trial" # the subpath of your site, e.g. /blog
 url: "edgahab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
