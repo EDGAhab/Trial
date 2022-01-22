@@ -20,15 +20,13 @@
 logo: Logo.png
 
 title: EVA
-description: >- # this means to ignore newlines until "baseurl:"
-  Visual data management system. Features include declarative query language, storage
-  management, deep learning, and hardware acceleration.
-  Developed at Georgia Institute of Technology.
+description: Visual data management system. Features include declarative query language, storage management, deep learning, and hardware acceleration. Developed at Georgia Institute of Technology.
+
 baseurl: "/Trial" # the subpath of your site, e.g. /blog
 url: "edgahab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-show_downloads: "true" 
-google_analytics:
+show_downloads: true
+google_analytics: EVA
 
 
 # Build settings
