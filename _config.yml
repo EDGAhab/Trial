@@ -30,9 +30,13 @@ google_analytics: EVA
 
 
 # Build settings
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
+
+#not default stuff
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
