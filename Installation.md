@@ -1,4 +1,4 @@
-## <font size="5">Installation
+## <font size="5">Installation</font>
 
 Installation of EVA involves setting a virtual environment using [miniconda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html) and configuring git hooks.
 
