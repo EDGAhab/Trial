@@ -19,7 +19,8 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-
+        
+        <p style="font-size:1px">{{ site.blank}}</p>
         <h1 style="color:black;">{{ site.title | default: site.github.repository_name }}</h1>
 
         

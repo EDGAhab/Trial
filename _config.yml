@@ -20,6 +20,7 @@
 logo: Logo.png
 
 title: EVA
+blank: 
 description: Visual data management system. Features include declarative query language, storage management, deep learning, and hardware acceleration. Developed at Georgia Institute of Technology.
 
 baseurl: "/Trial" # the subpath of your site, e.g. /blog
